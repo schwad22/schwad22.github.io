@@ -18,10 +18,11 @@ or a stopping condition is met, when one agent has collected 100 pieces of the e
 
 Once programme completes the user must close the GUI and kill the programme by pressing crtl+c.
 
+## Programme GUI
 ![](.\images\Capture.png)
 
 ## USAGE
 This programme is open source and permission is granted for wider use.
-Licence - Apache License 2.0 <https://github.com/schwad22/GEOG5003M_Portfolio/LICENCE>
+Licence - Apache License 2.0 <https://www.apache.org/licenses/LICENSE-2.0>
 
 Please follow this link to view the portfolio <https://github.com/schwad22/GEOG5003M_Portfolio>
