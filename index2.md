@@ -26,5 +26,5 @@ This programme is open source and permission is granted for wider use.
 
 Licence - Apache License 2.0 <https://www.apache.org/licenses/LICENSE-2.0>
 
-### Portfolio
+## Portfolio
 Please follow this link to view the portfolio <https://github.com/schwad22/GEOG5003M_Portfolio>
