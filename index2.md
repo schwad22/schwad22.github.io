@@ -1,7 +1,7 @@
 ---
 title: <center>Agent Based Modelling Portfolio</center>
 ---
-# Programme
+## Programme
 The final programme animates the movement of 'n number of agents around a set environment whilst they interact with the environment and each other.
 
 ## Installation
