@@ -1,6 +1,5 @@
 ---
-title: <center>Agent Based Modelling Portfolio</center>
----
+title: <center>Agent Based Modelling Portfolio</center>---
 # Title
 This is a new line
 
